@@ -143,6 +143,8 @@ span {
 .terms {
     margin-top: 35px;
     text-align: center;
+    width: 75%;
+    color: #757575;
 }
 
 .terms>em {
